@@ -1,3 +1,3 @@
 #!/usr/bin/env python
 
-print("Nico is an idiiot!")
+print("Niko is an idiiot!")
